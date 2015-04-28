@@ -10,7 +10,7 @@
 </head>
 <body class="metro">
 	<div>
-		B�N V�<br> 1. chon ngay<br> 2. danh sach phim dang chieu (chi hien
+		BÁN VÉ<br> 1. chọn ngày<br> 2. danh sach phim dang chieu (chi hien
 		ngay hien hanh + tai thoi diem + va nhung ngay sau do)<br>
 
 		<div style="background-color: #cccccc">
