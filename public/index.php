@@ -8,6 +8,6 @@
         <script src="js/metro/metro.min.js"></script>
     </head>
     <body class="metro">
-        ... markup page TEST...
+        ... markup page TEST 1
     </body>
 </html>
